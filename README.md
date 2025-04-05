@@ -25,7 +25,7 @@ This project automates Telegram message sending and allows scheduled delivery of
 git clone https://github.com/your-username/telegram-bots.git
 cd telegram-bots
 pip install -r requirements.txt
-
+```
 
 - Let me know if you'd like to add screenshots, usage examples, or setup for Docker/cloud deployment!
 
