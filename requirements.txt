@@ -1,0 +1,5 @@
+pdf2docx>=2.0.0
+python-docx>=0.8.11
+tqdm>=4.62.0
+pillow>=8.3.1
+pdfminer.six>=20201018
