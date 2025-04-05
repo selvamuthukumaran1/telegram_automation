@@ -27,5 +27,5 @@ cd telegram-bots
 pip install -r requirements.txt
 ```
 
-- Let me know if you'd like to add screenshots, usage examples, or setup for Docker/cloud deployment!
+Let me know if you'd like to add screenshots, usage examples, or setup for Docker/cloud deployment!
 
